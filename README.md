@@ -1,4 +1,4 @@
-## sql-challenge
+## SQL
 # For put in practice all about SQL
 
 Following the instructios , I replicate the gitlab folder, clone the repository and insert the files as the instructions said putting inside in a new carpet EmployeeSQL.
