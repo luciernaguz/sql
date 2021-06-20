@@ -11,7 +11,11 @@ Then create the table with the respective constraint, with the csv files provide
 
 After read again instructions and follow step by step and do the querys that are saved in the file Data_Analysis.sql
 
-Bonus part, the most difficult to try solve the bonus part was the connection with the database then I think I complete this part. The images of the plots are inside in the carpet Images.
+Bonus part, the most difficult to try solve the bonus part was the connection with the database then I think I complete this part. 
+
+![Average Salary by Title](EmployeeSQL/Images/avg_salary_by_title.png)
+
+![Salary Ranges Employees](EmployeeSQL/Images/Salary_ranges_employees.png)
 
 **Important Note , is necessary the password be added in the Jupyter Notebook for the connection.
 
